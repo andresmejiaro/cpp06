@@ -6,7 +6,7 @@
 /*   By: amejia <amejia@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/08 23:53:27 by amejia            #+#    #+#             */
-/*   Updated: 2023/07/08 23:53:50 by amejia           ###   ########.fr       */
+/*   Updated: 2023/07/09 22:20:29 by amejia           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,10 +16,11 @@
 #define A_H
 # include "Base.hpp"
 
-class A: public Base	 {
+class A: public Base {
 public:
 	
 private:
+
 };
 
 #endif // BASE_H
